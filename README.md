@@ -5,3 +5,5 @@ technologies used:
 -- Vite
 -- Pinia
 -- Vue Router
+
+Check out app at https://music-streaming-service.netlify.app/
